@@ -1,0 +1,12 @@
+{
+  "name": "wordlebot",
+  "version": "1.0.0",
+  "description": "A Wordle solver bot",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Une Simonsen",
+  "license": "ISC"
+}
